@@ -149,7 +149,7 @@ body
 	justify-content: center;
 	align-items: center;
 	z-index: 10;
-	animation: fadeout 11s linear forwards;
+	animation: fadeout 09s linear forwards;
 }
 @keyframes fadeout
 {
