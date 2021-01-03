@@ -149,7 +149,7 @@ body
 	justify-content: center;
 	align-items: center;
 	z-index: 10;
-	animation: fadeout 08s linear forwards;
+	animation: fadeout 05s linear forwards;
 }
 @keyframes fadeout
 {
@@ -188,7 +188,7 @@ body
 	height: 100%;
 	background: #000;
 	transform-origin: left;
-	animation: animate 07s linear forwards;
+	animation: animate 05s linear forwards;
 }
 .loading .bar::after
 {
